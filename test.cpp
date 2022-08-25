@@ -5,8 +5,18 @@ using namespace std;
 
 
 int main(){
-    int a = 221234;
-    cout<<(a & 11)<<endl;
-    printf("²âÊÔgit");
-//    system("pause");
+    int a[10] = {0};
+    int b[10][10] = {{1},{2},{3}};
+    for(auto c : a)
+        cout<<c<<" ";
+    cout<<endl;
+    for(auto c : b){
+        for(int i = 0; i < 10; i++){
+            cout<<c[i]<<" ";
+        }
+        cout<<endl;
+    }
+
+
+
 }
