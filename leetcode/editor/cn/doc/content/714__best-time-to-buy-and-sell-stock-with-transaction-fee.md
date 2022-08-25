@@ -42,7 +42,7 @@
 
 <div id="labuladong"><hr>
 
-**通知：[数据结构精品课 V1.8](https://aep.h5.xeknow.com/s/1XJHEO) 持续更新中；第十期刷题打卡挑战 [开始报名](https://mp.weixin.qq.com/s/eUG2OOzY3k_ZTz-CFvtv5Q)。**
+**通知：[数据结构精品课 V1.8](https://aep.h5.xeknow.com/s/1XJHEO) 持续更新中。**
 
 
 
@@ -126,6 +126,14 @@ class Solution {
 
 </details>
 </div>
+
+
+
+
+
+
+
+
 
 
 
